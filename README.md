@@ -161,6 +161,20 @@ This approach transforms individual PowerShell scripts into reusable support cap
 
 ---
 
+## SCCM Deployment
+
+The automation tools are designed to be deployed through Microsoft Configuration Manager (SCCM), allowing Workplace teams to distribute and execute standardized troubleshooting routines across managed Windows endpoints.
+
+### Tools deployed through SCCM
+
+![WAP tools deployed through SCCM](assets/screenshots/sccm-tools.jpeg)
+
+The screenshot represents the internal deployment of the WAP automation tools through SCCM.
+
+The original environment and infrastructure details have been omitted or anonymized for security and privacy purposes.
+
+---
+
 ## Logging & Telemetry
 
 Each automation generates execution information to support troubleshooting, auditing and operational analysis.
